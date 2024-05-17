@@ -1,4 +1,4 @@
-from .parser import Parser
+from .parser2 import Parser
 
 def parse():
     """
