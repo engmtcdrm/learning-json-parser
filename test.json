@@ -1,0 +1,33 @@
+{
+    "key1": "\"value1\" is \"king\" 'nevermind' this dribble \\/\\b\\f\\n\\r\\t",
+    "key2": 12345,
+    "key3": 12345.6889,
+    "key17": 12345.6889.1000,
+    "key4": 0e-10,
+    "key5": 0.1e-10,
+    "key6": 0.1e10,
+    "key7": 0.1e+10,
+    "key8": 1.1e+10,
+    "key9": 1.1e-10,
+    "key11": true,
+    "key12": false,
+    "key13": null,
+    "key14": [1, 2, 3, 4, 5],
+    "key15": {
+        "key15a": "value15a",
+        "key15b": "value15b",
+        "key15c": "value15c"
+    },
+    "key16": [
+        {
+            "key16a": "value16a",
+            "key16b": "value16b",
+            "key16c": "value16c"
+        },
+        {
+            "key16a": "value16a",
+            "key16b": "value16b",
+            "key16c": "value16c"
+        }
+    ]
+}
